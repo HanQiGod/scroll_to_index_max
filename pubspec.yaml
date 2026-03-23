@@ -1,0 +1,15 @@
+name: scroll_to_index_max
+description: Flutter 升级 3.35.7 之后，对 scroll_to_index 插件的升级（After Flutter upgrade 3.35.7, the upgrade of scroll_to_index plugins.）。
+version: 4.0.0
+homepage: https://github.com/HanQiGod/scroll_to_index_max
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
